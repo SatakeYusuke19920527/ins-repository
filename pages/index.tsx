@@ -38,8 +38,8 @@ const Home: NextPage = () => {
         <Card
           params={{
             route: '/login',
-            title: 'firebase login',
-            description: 'Firebase Login API.',
+            title: 'LINE LOGIN',
+            description: 'LINE LOGIN API.',
           }}
         />
         <Card
