@@ -51,9 +51,9 @@ const Home: NextPage = () => {
         />
         <Card
           params={{
-            route: '/line',
-            title: 'Line message',
-            description: 'line messaging API.',
+            route: '/staticsite',
+            title: 'GetStaticProps研究',
+            description: '静的サイト作成.',
           }}
         />
         <Card
