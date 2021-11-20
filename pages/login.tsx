@@ -1,5 +1,7 @@
 import Layout from '../components/layout';
 import liff from '@line/liff';
+import dynamic from 'next/dynamic';
+
 import styles from '../styles/Login.module.css';
 const Line = () => {
   const lineLogin = () => {
