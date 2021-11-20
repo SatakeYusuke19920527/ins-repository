@@ -1,5 +1,5 @@
 import Layout from '../components/layout';
-import { getPosts, getPostsID } from '../lib/getPost';
+import { getPosts } from '../lib/getPost';
 import Link from 'next/link';
 const BlogPage = ({ posts }: { posts: any }) => {
   const renderPost = posts.map((post: any, index: number) => (
