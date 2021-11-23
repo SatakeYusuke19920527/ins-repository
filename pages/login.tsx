@@ -9,7 +9,7 @@ const Line = () => {
   return (
     <Layout>
       <button onClick={lineLogin} className={styles.button}>
-        LINE loign
+        LINE LOGIN
       </button>
     </Layout>
   );
